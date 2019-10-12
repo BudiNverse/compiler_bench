@@ -1,0 +1,9 @@
+[submodule "justbus-rs"]
+	path = justbus-rs
+	url = https://github.com/BudiNverse/justbus-rs.git
+[submodule "lta-rs"]
+	path = lta-rs
+	url = https://github.com/BudiNverse/lta-rs.git
+[submodule "jemalloc"]
+	path = jemalloc
+	url = https://github.com/jemalloc/jemalloc.git
