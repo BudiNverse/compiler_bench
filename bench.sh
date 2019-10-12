@@ -2,7 +2,7 @@
 
 # deps
 sudo apt-get update
-sudo apt-get install build-essential pkg-config libssl-dev clang git
+sudo apt-get install build-essential pkg-config libssl-dev clang
 curl https://sh.rustup.rs -sSf | sh -s -- --default-toolchain stable
 export PATH="$HOME/.cargo/bin:$PATH"
 
